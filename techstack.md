@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [patrickhaley/Auto-GPT](https://github.com/patrickhaley/Auto-GPT)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|12/06/23 <br/>Report generated|
+|42<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
